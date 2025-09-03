@@ -4,6 +4,8 @@ published: 2025-09-03
 cover: https://i.pinimg.com/564x/cc/41/cb/cc41cbd28aa54ddbf81c998a55818b0d.jpg
 tags: [gym,goals]
 category: goals
+description: "My fitness goals from September to December — strength, stamina, and aesthetics."
+draft: false
 ----
 # fitness-journey
 
