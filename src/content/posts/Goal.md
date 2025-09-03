@@ -1,7 +1,7 @@
 ---
 title: "personal development"
 published: 2025-09-03
-cover: https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@f029094d5bda7d85fd18c921ee8e721a402b795a/uploads/2025-08-11T17-00-38-093Z-3jatc1ff9.jpg
+image: https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@f029094d5bda7d85fd18c921ee8e721a402b795a/uploads/2025-08-11T17-00-38-093Z-3jatc1ff9.jpg
 tags: [gym, goals]
 category: goals
 description: "My fitness goals from September to December — strength, stamina, and aesthetics."
