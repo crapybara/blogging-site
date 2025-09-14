@@ -1,3 +1,9 @@
+---
+title: Want to be someone
+published: 2025-09-03
+image: https://www.philosopher.eu/wp-content/uploads/2015/03/Nietzsche-wingLogo-graysml.jpg
+tags: [philosophy,goals]
+---
 # Philosophy  
 
 #### Index
